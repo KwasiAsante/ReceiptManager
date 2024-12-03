@@ -1,0 +1,2 @@
+# ReceiptManager
+A receipt manager
